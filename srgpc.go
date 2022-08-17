@@ -66,7 +66,7 @@ import (
 
 */
 
-const version = "020AD00"
+const version = "002004000"
 
 type Environment struct {
 	IntervalHour int
