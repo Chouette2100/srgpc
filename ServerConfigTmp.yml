@@ -1,0 +1,14 @@
+## DBサーバーのホスト名、指定しなければlocalhost
+#Dbhost: xxxxxxxx
+#
+# データベース名
+Dbname:	XXXXXXXX
+#
+# ログイン名とパスワードは環境変数で渡す
+#Dbuser: ${DBUSER}
+#Dbpw: ${DBPW}
+#
+# ログイン名とパスワードは設定ファイルで渡す
+Dbuser:	xxxxxx
+Dbpw: xxxxxx
+
